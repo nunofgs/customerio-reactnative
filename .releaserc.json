@@ -1,4 +1,5 @@
 {
+  "repositoryUrl": "https://github.com/nunofgs/customerio-reactnative",
   "tagFormat": "${version}",
   "branches": [
     "main",
