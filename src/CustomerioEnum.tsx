@@ -14,9 +14,9 @@ enum CioLogLevel{
  * US - for data center in United States
  * EU - for data center in European Union 
  */
- enum Region {
+enum Region {
     US = "US",
     EU = "EU",
-  }
+}
 
 export {CioLogLevel, Region}
